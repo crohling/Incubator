@@ -11,7 +11,7 @@ def give_item(server,player, item_number, number_per_stack, number_of_stacks):
 def respawn(server, player):
     send_command(server,'give '+player+' 276 64')
     send_command(server,'give '+player+' 277 64')
-	send_command(server,'give '+player+' 278 64')
+    send_command(server,'give '+player+' 278 64')
     send_command(server,'give '+player+' 279 64')
     send_command(server,'give '+player+' 310 64')
     send_command(server,'give '+player+' 311 64')
