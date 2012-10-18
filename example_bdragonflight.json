@@ -1,0 +1,7 @@
+{
+    "realm":"black-dragonflight",
+    "sender":"sender@example.com",
+    "recievers":["reciever@example.com"],
+    "smtp_server":"localhost",
+    "smtp_port":"25"
+}
